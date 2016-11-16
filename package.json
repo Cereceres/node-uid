@@ -1,0 +1,28 @@
+{
+  "name": "node-uid",
+  "version": "0.0.1",
+  "description": "generate a unique id using the current date",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/node-uid.git"
+  },
+  "keywords": [
+    "id",
+    "unique",
+    "date",
+    "node"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cereceres/node-uid/issues"
+  },
+  "homepage": "https://github.com/Cereceres/node-uid#readme"
+}
