@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Cereceres/node-uid.svg?branch=master)](https://travis-ci.org/Cereceres/node-uid)
+
 # node-uid
 generate unique id
 ## Install
