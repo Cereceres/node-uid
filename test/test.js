@@ -18,7 +18,7 @@ describe('the test to uid', () => {
     it('should be unique', () => {
         const set = new Set();
         const length = 10;
-        for (let i = 0; i < 1000000000000; i++) {
+        for (let i = 0; i < 10000000; i++) {
             const id = node_uid(length);
             assert(!set.has(id));
             set.add(id);
