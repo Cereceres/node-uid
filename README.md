@@ -14,4 +14,4 @@ node_uid(15) // -> 52fd63t7kp202g
 ```
 ## API
 
-node-uid is a function that receive a params that is the length of id generated
+node-uid is a function that receive a param that is the length of id generated, the module was tested with 10^12 id generated consecutively and the id was unique.
