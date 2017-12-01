@@ -1,6 +1,6 @@
 {
   "name": "node-uid",
-  "version": "0.0.2",
+  "version": "0.1.2",
   "description": "generate a unique id using the current date",
   "main": "index.js",
   "directories": {
